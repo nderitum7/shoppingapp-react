@@ -1,6 +1,6 @@
 
 import React from "react";
-import ProductCard from "./productcard";
+import ProductCard from "./ProductCard";
 
 function ProductList({ products, addToCart }) {
   return (

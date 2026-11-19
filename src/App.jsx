@@ -1,8 +1,8 @@
 
 import React, { useState } from "react";
-import ProductList from "./components/productlist";
-import DarkModeToggle from "./components/darkmodetoggle";
-import Cart from "./components/cart";
+import ProductList from "./components/ProductList";
+import DarkModeToggle from "./components/DarkModeToggle";
+import Cart from "./components/Cart";
 import "./App.css";
 
 function App() {
